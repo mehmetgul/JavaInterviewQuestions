@@ -1,4 +1,4 @@
-package JavaQuestions.q2;
+package JavaQuestions.Minumum_Moves;
 
 public class Q2 {
 
