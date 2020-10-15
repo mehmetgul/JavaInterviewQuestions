@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class Solution {
 	public static void main(String[] args) {
 		String character = "BAONXXOLL";
-	//	String character = "BAOOLLNNOLOLBBAX";
+		//	String character = "BAOOLLNNOLOLBBAX";
 		//String character = "QAWABAWONL";
 		Solution s = new Solution();
 		int count = s .solution(character);
@@ -66,4 +66,3 @@ public class Solution {
 
 
 }
-
