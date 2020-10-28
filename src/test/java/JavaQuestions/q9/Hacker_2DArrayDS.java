@@ -1,4 +1,7 @@
-package JavaQuestions.Hacker_2DArrayDS;
+package JavaQuestions.q9;
+
+import JavaQuestions.q9.*;
+
 /*Given a  2D Array, :
 
         1 1 1 0 0 0

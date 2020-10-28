@@ -1,4 +1,4 @@
-package java_Interview;
+package JavaQuestions.q10;
 
 import java.util.Arrays;
 import java.util.Scanner;
