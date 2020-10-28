@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/applications/valid_pan_format" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/find_a_substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/split_the_phone_numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/find_hackerrank" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/detect_html_attributes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/detecting_valid_latitude_and_longitude_pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/the_british_and_american_style_of_spelling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/hackerrank_tweets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/ip_address_validation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/detect_html_tags" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/applications/alien_username" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

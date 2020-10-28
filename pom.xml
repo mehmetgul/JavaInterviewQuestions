@@ -6,7 +6,15 @@
 
     <groupId>com.javaquestions</groupId>
     <artifactId>JavaInterviewQuestions</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>HackkerRank</module>
+        <module>HackerRank1</module>
+        <module>HackerRank2</module>
+    </modules>
+
+
     <build>
         <plugins>
             <plugin>

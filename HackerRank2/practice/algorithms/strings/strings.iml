@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/string_construction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/super_reduced_string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/anagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/making_anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pangrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mars_exploration" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/beautiful_binary_string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/funny_string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common_child" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/weighted_uniform_strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/game_of_thrones-i" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/two_characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/separate_the_numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/alternating_characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sherlock_and_anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/the_love-letter_mystery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/camelcase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gemstones" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
